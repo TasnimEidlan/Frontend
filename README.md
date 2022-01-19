@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tasnim Eidlan</h1>
-<h3 align="center">frontend developer for web Site and Mobile Application</h3>
+<h1 align="center" style="color:blue;">Hi 👋, I'm Tasnim Eidlan</h1>
+<h3 align="center">Frontend Developer for Web Site and Mobile Application</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
